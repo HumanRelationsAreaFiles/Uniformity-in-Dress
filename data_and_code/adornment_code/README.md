@@ -1,4 +1,4 @@
-# adornment
+# clothing and adornment
 
 processing.R cleans the data found in data-raw, and then exports data.csv.
 
