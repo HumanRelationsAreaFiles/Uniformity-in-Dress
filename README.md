@@ -1,7 +1,7 @@
 # Uniformity-in-Dress: A Worldwide Cross-Cultural Comparison
 Carol R. Ember <sup> [1](#one) </sup>,  
-Abbe McCarter <sup>1</sup> <sup>2</sup>,  
-Erik Ringen <sup>3</sup> <sup>4</sup>
+Abbe McCarter <sup>[1](#one)</sup> <sup>[2](#two)</sup>,  
+Erik Ringen <sup>[3](#three)</sup> <sup>[4](#four)</sup>
 
 
 
