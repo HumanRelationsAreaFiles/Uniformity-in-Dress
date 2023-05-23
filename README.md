@@ -22,18 +22,21 @@ For review purposes, The files used for data analysis are uploaded as supplement
 
 ## Bio Sketches
 
-**Carol R. Ember** (PhD, Social Anthropology, Harvard University) is President of the Human Relations Area Files at Yale University (2010-present). Her cross-cultural research has focused  on variation in social organization, war and other forms of violence, and the effects of natural hazards on culture.
+**Carol R. Ember** (PhD, Social Anthropology, Harvard University)  
+is President of the Human Relations Area Files at Yale University (2010-present). Her cross-cultural research has focused  on variation in social organization, war and other forms of violence, and the effects of natural hazards on culture.
 
-**Abbe McCarter** (MSPH, Human Nutrition, JHSPH) graduated in 2019 from Emory University with a degree in Anthropology and Human Biology where her research focused on Indigenous Peoples’ Food Systems. She continued this work at the Johns Hopkins Bloomberg School of Public Health focusing on sustainable agriculture, diet diversity, and non-communicable disease prevention. 
+**Abbe McCarter** (MSPH, Human Nutrition, JHSPH)  
+graduated in 2019 from Emory University with a degree in Anthropology and Human Biology where her research focused on Indigenous Peoples’ Food Systems. She continued this work at the Johns Hopkins Bloomberg School of Public Health focusing on sustainable agriculture, diet diversity, and non-communicable disease prevention. 
 
-**Erik Ringen** (PhD, Anthropology, Emory University) is completing his PhD in 2022 from Emory University with a degree in Biological Anthropology. He specializes in quantitative comparative methods such as phylogenetic analysis and other multilevel modeling techniques for understanding human variation.
+**Erik Ringen** (PhD, Anthropology, Emory University)  
+is completing his PhD in 2022 from Emory University with a degree in Biological Anthropology. He specializes in quantitative comparative methods such as phylogenetic analysis and other multilevel modeling techniques for understanding human variation.
 
 
 ---
 
 
 
-  <a name="one">1</a> Human Relations Area Files at Yale University, New Haven, CT USA
+  <sub id="one"> 1 Human Relations Area Files at Yale University, New Haven, CT USA</sub>
 
   <a name="two">2</a> Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland USA (present)
 
