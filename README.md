@@ -38,11 +38,11 @@ is completing his PhD in 2022 from Emory University with a degree in Biological 
 
   <sub id="one"> 1 Human Relations Area Files at Yale University, New Haven, CT USA</sub>
 
-  <a name="two">2</a> Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland USA (present)
+  <sub id="two">2 Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland USA (present)</sub>
 
-  <a name="three">3</a> Emory University, Atlanta, Georgia, USA
+  <sub id="three">3 Emory University, Atlanta, Georgia, USA</sub>
 
-  <a name="four">4</a> University of Zurich, NCCR Evolving Language, Switzerland (present)
+  <sub id="four">4 University of Zurich, NCCR Evolving Language, Switzerland (present)</sub>
 
 
 
