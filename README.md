@@ -1,4 +1,6 @@
 # Uniformity-in-Dress: A Worldwide Cross-Cultural Comparison
+(accepted for publication in Human Nature-2023)
+
 Carol R. Ember <sup> [1](#one) </sup>, Abbe McCarter <sup>[1](#one), </sup><sup>[2](#two)</sup>,  Erik Ringen <sup>[3](#three), </sup><sup>[4](#four)</sup>
 
 
